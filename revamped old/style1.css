@@ -1,0 +1,122 @@
+#name {
+	background-color: #00b3b3;
+	height:100px;
+	width: 250px;
+	margin-left: 100px;
+	text-align: center;
+	padding-top: 5px;
+	overflow: auto;
+	font-family: serif;
+	color: white;
+
+
+}
+#link {
+	text-align: right;
+	float: right;
+	margin-right: 100px;
+	color:grey;
+	margin-top: -95px;
+
+
+}
+#content {
+	height: 600px;
+	width: 100%;
+	background-color: lightgrey;
+	border-color: grey;
+	border-style: solid;
+	border-right: none;
+	border-left:none;
+	border-bottom: none;
+	overflow: auto;
+}
+#footer {
+	width: 100%;
+	background-color: grey;
+	color:white;
+	text-align: center;
+	padding-bottom: 10px;
+	height: 65px;
+	
+	
+	border-top: 5px solid #00b3b3;
+	border-left: none;
+	border-right:none;
+	
+	border-bottom: none; 
+}
+
+a {
+	color: grey;
+	font-family: sans-serif;
+}
+#aboutme {
+	height: 82%;
+	width: 45%;
+	background-color: white;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#contact {
+	height: 55%;
+	width: 30%;
+	background-color: white;
+	margin-top: -400px;
+	margin-right: 100px;
+	float: right;
+}
+
+#img1{
+	height: 25%;
+	width: 30%;
+	margin-left: 25px;
+	margin-top: 25px;
+	float: left;
+	padding-right: 15px;
+}
+#head{
+	text-align: left;
+	border-style: solid;
+	background-color: white;
+	margin-right: 25px;
+	margin-left: 25px;
+	border-color: grey;
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	padding-top: 5px;
+	color: grey;
+}
+#crap{
+	
+	font-family: sans-serif;
+	margin-top: 25px;
+	clear: right;
+	color: grey;
+	margin-left: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size:19px;
+	height: 79%; 
+}
+#contactme{
+	background-color: auto;
+	text-align: center;
+	margin-right: 25px;
+	margin-left: 25px;
+	border-style: solid;
+	border-color: grey;
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	color: #00b3b3;
+}
+.pics{
+	width:30%;
+
+}
+#links{
+	margin-top: 15px;
+	font-family: sans-serif;
+}
